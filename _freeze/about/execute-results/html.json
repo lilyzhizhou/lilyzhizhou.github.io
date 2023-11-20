@@ -1,0 +1,14 @@
+{
+  "hash": "fd5b41eae6280658f611760937c8cb1b",
+  "result": {
+    "markdown": "---\ntitle: \"Lily Zhi Lin Zhou\"\nabout:\n  template: jolla\n  image: Images/IMG_2440.jpg\n  links:\n    - icon: linkedin\n      text: Linkedin\n      href: https://www.linkedin.com/in/zhlzhou/\n    - icon: github\n      text: Github\n      href: https://github.com/lilyzhizhou\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

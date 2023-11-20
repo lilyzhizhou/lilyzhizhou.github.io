@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lily Zhi Lin Zhou",
+    "section": "",
+    "text": "Epidemiologist graduated from University of Toronto\nRegistered Nurse\nInterests: infectious disease, surveillance and health technology."
+  },
+  {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a second year epidemiology student studying at the Dalla Lana School of Public Health at the University of Toronto.\nPrior to studying epidemiology, I worked as a registered nurse.\n\nEducation\nUniversity of Toronto | Toronto, ON\n\nMPH in Epidemiology | September 2022 - April 2023\n\nUniversity of Ottawa | Ottawa, ON\n\nBSc in Nursing | September 2018 - April 2021\n\n\n\nCurriculum Vitae\nmy CV can be downloaded here."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "Blog post 1 Test: Exploratory Data Analysis\n\n\n\nR code\n\n\n\ntest blog post\n\n\n\nLily Zhou\n\n\nNov 20, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/blog 1/index.html",
+    "href": "posts/blog 1/index.html",
+    "title": "Blog post 1 Test: Exploratory Data Analysis",
+    "section": "",
+    "text": "library(car)\n\nLoading required package: carData\n\ndata &lt;- cars\nplot(speed~dist, data= data)"
+  }
+]

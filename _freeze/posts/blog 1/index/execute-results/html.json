@@ -1,0 +1,16 @@
+{
+  "hash": "1a504ba22e43ef356d7d7a6a0a15249f",
+  "result": {
+    "markdown": "---\ntitle: \"Blog post 1 Test: Exploratory Data Analysis\"\ndescription: \"test blog post\"\nauthor: \"Lily Zhou\"\ndate: \"11/20/2023\"\ncategories:\n  - R code\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(car)\n```\n\n::: {.cell-output .cell-output-stderr}\n```\nLoading required package: carData\n```\n:::\n\n```{.r .cell-code}\ndata <- cars\nplot(speed~dist, data= data) \n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

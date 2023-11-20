@@ -1,0 +1,16 @@
+---
+title: "Blog post 1 Test: Exploratory Data Analysis"
+description: "test blog post"
+author: "Lily Zhou"
+date: "11/20/2023"
+categories:
+  - R code
+---
+
+```{r}
+library(car)
+
+data <- cars
+plot(speed~dist, data= data) 
+```
+

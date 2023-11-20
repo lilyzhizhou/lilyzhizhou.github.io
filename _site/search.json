@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lily Zhi Lin Zhou",
+    "section": "",
+    "text": "Epidemiologist graduated from University of Toronto\nRegistered Nurse\nInterests: infectious disease, surveillance and health technology."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "Blog post 1 Test: Exploratory Data Analysis\n\n\n\nR code\n\n\n\ntest blog post\n\n\n\nLily Zhou\n\n\nNov 20, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/blog 1/index.html",
+    "href": "posts/blog 1/index.html",
+    "title": "Blog post 1 Test: Exploratory Data Analysis",
+    "section": "",
+    "text": "library(car)\n\nLoading required package: carData\n\ndata &lt;- cars\nplot(speed~dist, data= data)"
+  }
+]

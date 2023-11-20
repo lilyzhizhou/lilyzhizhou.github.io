@@ -1,0 +1,20 @@
+---
+title: "Lily Zhi Lin Zhou"
+about:
+  template: jolla
+  image: Images/IMG_2440.jpg
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/zhlzhou/
+    - icon: github
+      text: Github
+      href: https://github.com/lilyzhizhou
+---
+
+Epidemiologist graduated from University of Toronto\
+Registered Nurse 
+
+**Interests**: infectious disease, surveillance and health technology. 
+
+

@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lily Zhou"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Research.qmd
+        text: Research
+      - text: CV
+        href: CV/CV.pdf
+      - href: blog.qmd
+        text: Blogs
+      - text: About 
+        href: About.qmd
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto
+
