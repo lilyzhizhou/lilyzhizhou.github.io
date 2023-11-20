@@ -14,7 +14,7 @@ website:
         href: CV/CV.pdf
       - href: blog.qmd
         text: Blogs
-      - text: About 
+      - text: About Me
         href: About.qmd
 
 format:
