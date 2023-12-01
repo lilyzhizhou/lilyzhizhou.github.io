@@ -2,4 +2,30 @@
 title: "Research"
 ---
 
+My research interests are broadly focused on health and infectious disease. I have a keen interest in the surveillance of infectious disease within populations and the development of surveillance systems. My future goal is to incorporate machine learning within traditional surveillance systems to access previously inaccessible data and improve early disease detection.  
+
+
+## Projects 
+
+* [**Identifying research priorities with children, youth, and families: A scoping review**](https://journals.sagepub.com/doi/10.1177/13674935231151748)
+  * Children's Hospital of Eastern Ontario Research Institute, Ottawa, ON, Canada
+  
+* **Predicting prediabetes using prescriptive machine learning models**
+  * PREVENT, University of Toronto, ON, Canada
+
+* **Antimicrobial use and stewardship in a network of Canadian acute-care hospitals, 2009-2021**
+  * Canadian Nosocomial Infection Surveillance Program, Public Health Agency of Canada, Ottawa, ON, Canada
+  * Evaluated the impact of antimicrobial stewardship programs in acute-care hospitals across Canada revealing limitations to data collection methods resulting in the improvement of future questionaries. 
+  * Applied knowledge of epidemiologic and statistical methods to analyze hospital surveillance data to produce surveillance report highlighting variation and effectiveness of stewardship programs across Canadian hospitals.
+
+* [**What makes Torontonians feel at home?**](https://geohealthhub-esricanada.hub.arcgis.com/apps/6f0eb3ffdb17411b8889cf95a341adba/explore)
+  * Geospatial Data Visualization Challenge, University of Toronto , ON, Canada
+  * Created spatial visualizations of correlations between community belonging and associated indicators within Toronto using ArcGIS Pro.
+
+* **Quality improvement project: staff experience on information accessibility**  
+  * Emergency Response Phone Line, Ottawa Public Health, ON, Canada
+  *	Designed survey to identify accessibility barriers which revealed user interface issues with their platform. 
+  *	Performed qualitative and quantitative data analysis mixed-methods research design on collected survey information to identify solutions to platform to information accessibility. 
+  *	Designed and delivered presentation to 200 OPH professionals in the department which resulted in positive changes on the OPH website.
+
 

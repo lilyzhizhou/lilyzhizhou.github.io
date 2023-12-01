@@ -13,7 +13,7 @@ about:
 ---
 
 Epidemiologist graduated from University of Toronto\
-Registered Nurse 
+Registered Nurse `r emoji::shape(`red`,'heart')`
 
 **Interests**: infectious disease, surveillance and health technology. 
 
