@@ -10,6 +10,9 @@ My research interests are broadly focused on health and infectious disease. I ha
 * [**Identifying research priorities with children, youth, and families: A scoping review**](https://journals.sagepub.com/doi/10.1177/13674935231151748)
   * Children's Hospital of Eastern Ontario Research Institute, Ottawa, ON, Canada
   
+* [**Corrcat Package**](https://github.com/lilyzhizhou/corrcat)
+  * R package to visualize CramerV correlations in heatmap 
+  
 * **Predicting prediabetes using prescriptive machine learning models**
   * PREVENT, University of Toronto, ON, Canada
 
