@@ -19,7 +19,9 @@ website:
 
 format:
   html:
-    theme: litera
+    theme: 
+      light: litera
+      dark: slate
     css: styles.css
     toc: true
 
