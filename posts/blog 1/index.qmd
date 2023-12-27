@@ -13,4 +13,3 @@ library(car)
 data <- cars
 plot(speed~dist, data= data) 
 ```
-

@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests are broadly focused on health and infectious disease. I have a keen interest in the surveillance of infectious disease within populations and the development of surveillance systems. My future goal is to incorporate machine learning within traditional surveillance systems to access previously inaccessible data and improve early disease detection."
+  },
+  {
+    "objectID": "Research.html#projects",
+    "href": "Research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nIdentifying research priorities with children, youth, and families: A scoping review\n\nChildren’s Hospital of Eastern Ontario Research Institute, Ottawa, ON, Canada\n\nCorrcat Package\n\nR package to visualize CramerV correlations in heatmap\n\nPredicting prediabetes using prescriptive machine learning models\n\nPREVENT, University of Toronto, ON, Canada\n\nAntimicrobial use and stewardship in a network of Canadian acute-care hospitals, 2009-2021\n\nCanadian Nosocomial Infection Surveillance Program, Public Health Agency of Canada, Ottawa, ON, Canada\nEvaluated the impact of antimicrobial stewardship programs in acute-care hospitals across Canada revealing limitations to data collection methods resulting in the improvement of future questionaries.\nApplied knowledge of epidemiologic and statistical methods to analyze hospital surveillance data to produce surveillance report highlighting variation and effectiveness of stewardship programs across Canadian hospitals.\n\nWhat makes Torontonians feel at home?\n\nGeospatial Data Visualization Challenge, University of Toronto , ON, Canada\nCreated spatial visualizations of correlations between community belonging and associated indicators within Toronto using ArcGIS Pro.\n\nQuality improvement project: staff experience on information accessibility\n\nEmergency Response Phone Line, Ottawa Public Health, ON, Canada\nDesigned survey to identify accessibility barriers which revealed user interface issues with their platform.\nPerformed qualitative and quantitative data analysis mixed-methods research design on collected survey information to identify solutions to platform to information accessibility.\nDesigned and delivered presentation to 200 OPH professionals in the department which resulted in positive changes on the OPH website."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lily Zhi Lin Zhou",
@@ -26,19 +40,5 @@
     "title": "Blog post 1 Test: Exploratory Data Analysis",
     "section": "",
     "text": "library(car)\n\nLoading required package: carData\n\ndata &lt;- cars\nplot(speed~dist, data= data)"
-  },
-  {
-    "objectID": "Research.html",
-    "href": "Research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research interests are broadly focused on health and infectious disease. I have a keen interest in the surveillance of infectious disease within populations and the development of surveillance systems. My future goal is to incorporate machine learning within traditional surveillance systems to access previously inaccessible data and improve early disease detection."
-  },
-  {
-    "objectID": "Research.html#projects",
-    "href": "Research.html#projects",
-    "title": "Research",
-    "section": "Projects",
-    "text": "Projects\n\nIdentifying research priorities with children, youth, and families: A scoping review\n\nChildren’s Hospital of Eastern Ontario Research Institute, Ottawa, ON, Canada\n\nCorrcat Package\n\nR package to visualize CramerV correlations in heatmap\n\nPredicting prediabetes using prescriptive machine learning models\n\nPREVENT, University of Toronto, ON, Canada\n\nAntimicrobial use and stewardship in a network of Canadian acute-care hospitals, 2009-2021\n\nCanadian Nosocomial Infection Surveillance Program, Public Health Agency of Canada, Ottawa, ON, Canada\nEvaluated the impact of antimicrobial stewardship programs in acute-care hospitals across Canada revealing limitations to data collection methods resulting in the improvement of future questionaries.\nApplied knowledge of epidemiologic and statistical methods to analyze hospital surveillance data to produce surveillance report highlighting variation and effectiveness of stewardship programs across Canadian hospitals.\n\nWhat makes Torontonians feel at home?\n\nGeospatial Data Visualization Challenge, University of Toronto , ON, Canada\nCreated spatial visualizations of correlations between community belonging and associated indicators within Toronto using ArcGIS Pro.\n\nQuality improvement project: staff experience on information accessibility\n\nEmergency Response Phone Line, Ottawa Public Health, ON, Canada\nDesigned survey to identify accessibility barriers which revealed user interface issues with their platform.\nPerformed qualitative and quantitative data analysis mixed-methods research design on collected survey information to identify solutions to platform to information accessibility.\nDesigned and delivered presentation to 200 OPH professionals in the department which resulted in positive changes on the OPH website."
   }
 ]
